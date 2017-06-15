@@ -1,5 +1,5 @@
-Potato
-======
+something else
+==============
 
 ![alt text][logo]
 
